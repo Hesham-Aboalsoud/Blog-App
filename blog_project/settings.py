@@ -25,7 +25,7 @@ SECRET_KEY = 'e^d=-$(i+pr(hy!ib+9l67c5gbg%d%&_e4zc_%e($5)(&9askq'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
